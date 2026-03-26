@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:trishulenterprise.com)",
+      "WebSearch",
+      "WebFetch(domain:www.indiamart.com)",
+      "WebFetch(domain:www.facebook.com)",
+      "Bash(mkdir -p \"D:\\\\Hrutvik\\\\Learning Projects\\\\Trishul\\\\images\")",
+      "Bash(curl -s -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing1-370x250.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing2-370x250.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing5.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing7.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing3-1.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing4-1.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing6-1-370x250.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Thrust-Bearing8-1.jpg\")",
+      "Bash(curl -s -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Motor-Pump-Bearing-Bush1.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Motor-Pump-Bearing-Bush2.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Motor-Pump-Bearing-Bush3.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Impeller1.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Impeller2.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Impeller3.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Impeller4.png\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Other-Products1.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Other-Products2-370x250.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Other-Products3.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Other-Products4.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/Other-Products5-370x250.jpg\")",
+      "Bash(curl -s -O \"https://trishulenterprise.com/wp-content/uploads/2024/01/banner124.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2024/01/121.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2024/01/122.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2024/01/123.jpg\" -O \"https://trishulenterprise.com/wp-content/uploads/2023/10/products_banner.jpg\")",
+      "Bash(pip --version)",
+      "Bash(pip install:*)",
+      "Bash(python remove_bg.py)",
+      "Bash(python -c \"import cv2; print\\(''cv2 available, version:'', cv2.__version__\\)\")",
+      "Bash(python -c \"import cv2; print\\(cv2.__version__\\)\")",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
